@@ -7,9 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkpp&layout=compact)
 
 #
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -22,6 +19,13 @@
 
 
 <!--
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+
+
 ### Technologies
 
 <div style="display: inline_block">
