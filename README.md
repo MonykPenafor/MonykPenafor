@@ -6,7 +6,6 @@ ver link: https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
 <h1 align="center">Hi there 👋, my name is Monyk Paola</h1>
 <h3 align="center">Studying to become a FullStack Developer</h3>
-<h3 align="center">Studying to become a FullStack Developer</h3>
 ###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monykpenafor&layout=compact)
