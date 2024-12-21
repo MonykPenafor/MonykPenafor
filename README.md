@@ -15,8 +15,8 @@ ver link: https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 - 🌱 I’m currently learning **C# and .NET**.
 
-- ⚡ Check my Portfolio: **[https://monykpenafor.github.io/](https://monykpenafor.github.io/)** - I'm still working on it but you can download my resume here.
-
+<!-- - ⚡ Check my Portfolio: **[https://monykpenafor.github.io/](https://monykpenafor.github.io/)** - I'm still working on it but you can download my resume here.
+-->
 
 #
 
